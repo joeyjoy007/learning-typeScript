@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyjoy007/learning-typeScript.git"
+  },
+  "author": "garvit jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyjoy007/learning-typeScript/issues"
+  },
+  "homepage": "https://github.com/joeyjoy007/learning-typeScript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
